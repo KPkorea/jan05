@@ -3,7 +3,7 @@ package enum01;
 //열거한 데이터만 쓸수있습니다.
 //같은 값은 가질수 없습니다.
 //enum은 클래스명하고 중복할수 없습니다.
-  //
+ 
 enum Week{
 	MON, TUE, WED, THU, FRI, SET, SUN;
 }
